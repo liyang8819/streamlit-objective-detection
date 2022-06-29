@@ -1,0 +1,59 @@
+<annotation>
+    <folder>img_dir</folder>
+    <filename>000711.jpg</filename>
+    <path>L:\项目\目标检测\streamlit-img-label-main\img_dir\000711.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>657</width>
+        <height>633</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>安全帽</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>361</xmin>
+            <ymin>443</ymin>
+            <xmax>423</xmax>
+            <ymax>505</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>安全帽</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>419</xmin>
+            <ymin>455</ymin>
+            <xmax>500</xmax>
+            <ymax>544</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>安全帽</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>502</xmin>
+            <ymin>445</ymin>
+            <xmax>589</xmax>
+            <ymax>543</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>安全帽</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>167</xmin>
+            <ymin>446</ymin>
+            <xmax>298</xmax>
+            <ymax>493</ymax>
+        </bndbox>
+    </object>
+</annotation>

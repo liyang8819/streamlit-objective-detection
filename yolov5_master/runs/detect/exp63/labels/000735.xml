@@ -1,0 +1,26 @@
+<annotation>
+    <folder>labels</folder>
+    <filename>000735.jpg</filename>
+    <path>./yolov5-master/runs/detect/exp63/labels/000735.jpg</path>
+    <source>
+        <database>None</database>
+    </source>
+    <size>
+        <width>202</width>
+        <height>303</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>helmet</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>61</xmin>
+            <ymin>15</ymin>
+            <xmax>149</xmax>
+            <ymax>70</ymax>
+        </bndbox>
+    </object>
+</annotation>

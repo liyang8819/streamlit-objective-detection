@@ -1,0 +1,26 @@
+<annotation>
+    <folder>img_dir</folder>
+    <filename>test_00000013.jpg</filename>
+    <path>D:\ly\streamlit-img-label-main\img_dir\test_00000013.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>440</width>
+        <height>293</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>©зуж</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>145</xmin>
+            <ymin>131</ymin>
+            <xmax>270</xmax>
+            <ymax>213</ymax>
+        </bndbox>
+    </object>
+</annotation>

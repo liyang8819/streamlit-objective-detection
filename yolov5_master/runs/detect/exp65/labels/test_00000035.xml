@@ -1,0 +1,26 @@
+<annotation>
+    <folder>labels</folder>
+    <filename>test_00000035.jpg</filename>
+    <path>./yolov5_master/runs/detect/exp65/labels/test_00000035.jpg</path>
+    <source>
+        <database>None</database>
+    </source>
+    <size>
+        <width>683</width>
+        <height>993</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>mask</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>235</xmin>
+            <ymin>384</ymin>
+            <xmax>359</xmax>
+            <ymax>464</ymax>
+        </bndbox>
+    </object>
+</annotation>
